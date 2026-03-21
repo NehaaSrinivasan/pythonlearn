@@ -1,0 +1,12 @@
+INFO 2024-01-15 08:01:23 user alice logged in from IP 192.168.1.10
+INFO 2024-01-15 08:15:44 user bob logged in from IP 192.168.1.12
+ERROR 2024-01-15 08:45:01 failed login attempt for user alice from IP 10.0.0.55
+ERROR 2024-01-15 08:45:03 failed login attempt for user alice from IP 10.0.0.55
+ERROR 2024-01-15 08:45:05 failed login attempt for user alice from IP 10.0.0.55
+INFO 2024-01-15 09:00:12 user charlie logged in from IP 192.168.1.20
+FAILED 2024-01-15 09:15:33 authentication failed for user root from IP 172.16.0.9
+INFO 2024-01-15 09:30:00 system backup completed successfully
+UNAUTHORIZED 2024-01-15 09:45:22 access attempt on /admin/panel from IP 172.16.0.9
+ERROR 2024-01-15 10:01:55 failed login attempt for user bob from IP 10.0.0.55
+INFO 2024-01-15 10:15:00 user alice logged out
+UNAUTHORIZED 2024-01-15 10:22:10 access attempt on /etc/passwd from IP 172.16.0.9
