@@ -7,5 +7,6 @@ with open('log.txt')  as f: # open file to read log.txt
          alert_count+=1                                               # count the number of times they have occured
          print('ALERT!', i, j)                                  # alert message
 print(' total number of alerts is :', alert_count)                    # total count of alerts
+
       
       
