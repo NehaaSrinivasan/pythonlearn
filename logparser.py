@@ -26,8 +26,8 @@ with open('log.txt')  as f: # open file to read log.txt
                print('ALERT!',splitvalue[indexip],splitvalue[indexip_add],'These ips are suscpicious')
                                           
 print('Therefore, the total number of alerts are :', alert_count)   
-print('Error has occured: ',word_count)
-print('Unauthorised has occured',word_count_unauthorised)
+print('ERROR has occured: ',word_count)
+print('UNAUTHORIZED has occured',word_count_unauthorised)
 print('FAILED has occured',word_count_failed)                
 
       
